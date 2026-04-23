@@ -15,3 +15,6 @@ print("I'm studying", "and having fun!")
 
 #To add a new line inside the string, we can use \n:
 print("I'm studying", "\nand having fun!")
+
+#We can make an expression using +:
+print ("This is " + "an expression")
